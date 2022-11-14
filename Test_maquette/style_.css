@@ -1,0 +1,209 @@
+ul
+{
+    list-style: none;
+    
+    /* listes */
+}
+
+
+.header__inner p
+{
+    height: 85px;
+width: 85px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+position: absolute;
+
+/* logo */
+
+}
+
+.navigator ul
+{
+    height: 20px;
+width: 524px;
+left: 520px;
+top: 32px;
+border-radius: 0px;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0%;
+gap: 45px;
+position: relative;
+
+/* accueil */
+}
+
+.header__inner
+{
+    height: 85px;
+    width: 1044px;
+    left: 198px;
+    top: 13px;
+    border-radius: 0px;
+    position: absolute;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  
+
+    /* interieur du header */
+
+}
+
+.banner
+{
+    background: #2D5298;
+
+}
+
+.banner__inner
+{
+    height: 422px;
+width: 1044px;
+left: 199px;
+top: 12px;
+border-radius: 0px;
+border-radius: 0px;
+position: relative;
+display: flex;
+}
+
+
+aside
+{
+    height: 318px;
+width: 400px;
+left: 15px;
+top: 52px;
+border-radius: 0px;
+
+
+}
+
+aside h1
+{
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 59px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: cornsilk;
+    
+    
+}
+
+aside p
+{
+    font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: cornsilk;
+
+
+}
+
+aside h3
+{
+    height: 49px;
+    width: 194px;
+    left: 0px;
+    top: 269px;
+    border-radius: 35px;
+    padding: 10px;
+    background: #7A96FF;
+    position: absolute;
+
+}
+
+input
+{
+    font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 25px;
+letter-spacing: 0em;
+ color: black;
+background: #7A96FF;
+border: none;
+
+}
+
+
+.services__inner
+{
+    height: 807px;
+    width: 1440px;
+    left: 0px;
+    top: 551px;
+    border-radius: 0px;
+    flex-direction: row;
+    align-items: center;
+         
+}
+
+.services__inner h1
+{
+    height: 39px;
+width: 209px;
+left: 615px;
+top: 38px;
+border-radius: nullpx;
+color:  #000000;
+text-align: center;
+position: relative;
+
+
+}
+
+.services__inner + p
+{
+    font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: center;
+color: black;
+
+}
+
+.service__item
+{
+    height: 396px;
+    width: 1044px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    justify: space-between;
+    
+}
+
+.service__item-list
+{
+    height: 371px;
+    width: 241px;
+    left: 0px;
+    top: 12.5px;
+    border-radius: 6px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 9px 0px #00000033;
+    max-width: 400px;
+    
+}
+
+li img
+{
+    height: 64px;
+width: 64px;
+left: 88.5px;
+top: 26.5px;
+border-radius: 0px;
+}
